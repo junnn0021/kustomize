@@ -41,7 +41,7 @@ spec:
               - ALL
           privileged: false
           readOnlyRootFilesystem: true
-        image: asia-northeast3-docker.pkg.dev/pelagic-fin-402600/test/adservice:66
+        image: asia-northeast3-docker.pkg.dev/pelagic-fin-402600/test/adservice:67
         ports:
         - containerPort: 9555
         env:
